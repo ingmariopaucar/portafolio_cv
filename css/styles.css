@@ -58,7 +58,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	padding: 0px 30px;
-	background-image: url("/img/fondodiseño.jpg");
+	background-image:url("/img/fondodiseño.jpg");
 	background-repeat: repeat;
 	background-size: 675px;
 	animation-name: bajando;
