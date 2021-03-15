@@ -53,7 +53,6 @@ body {
 	}
 .header {
 	height: 140px;
-	background-color: #232429;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
