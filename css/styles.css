@@ -265,10 +265,6 @@ body {
 
 /*Card*/
 
-
-
-
-
 @media (max-width: 768px) {
 	.header__color, .header__logo{
 		font-size: 50%;
@@ -317,7 +313,7 @@ body {
 	.sidebar.open .sidebar__nav {
 		padding-top: 30px;
 	}
-	
+}	
 
 @media (max-width: 480px) {
 	.header__color, .header__logo{
