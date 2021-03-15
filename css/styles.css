@@ -58,7 +58,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	padding: 0px 30px;
-	background-image:url("/img/fondodiseño.jpg");
+	background-image:url("/img/fondodiseño.png");
 	background-repeat: repeat;
 	background-size: 675px;
 	animation-name: bajando;
@@ -299,9 +299,7 @@ body {
 	.sidebar__nav {
 		padding-top: 0px;
 	}
-	.header__menu {
-		font-size: 32px;
-	}
+
 	/***cuando el sidebar esté en OPEN*****/
 	.sidebar.open {
 		width: 300px;
@@ -379,8 +377,5 @@ body {
 	}
 	.sidebar.open-mobile .sidebar__item {
 		font-size: unset;
-	}
-	.header__menu {
-		font-size: 0px;
 	}
 }
